@@ -1,0 +1,2 @@
+# CorrHigh
+Highly correlated predictors
