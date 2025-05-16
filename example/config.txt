@@ -1,0 +1,2 @@
+Prefix plugins/CorrHigh/example/
+Plugin CorrHigh inputfile mdrrDescr.csv outputfile none
